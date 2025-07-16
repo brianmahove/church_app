@@ -1,6 +1,5 @@
 import 'package:churchapp/bottom_navigation_bar.dart';
 import 'package:flutter/material.dart';
-import 'package:provider/provider.dart';
 import 'videoplayerscreen.dart';
 
 class HomePage extends StatefulWidget {
